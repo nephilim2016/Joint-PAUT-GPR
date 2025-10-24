@@ -41,7 +41,7 @@ The framework achieves **mutual verification and complementary enhancement** bet
 
 ## 🧪 Experimental Data
 
-The `laboratory/` folder includes raw PAUT and GPR data collected from a **1.0 m × 0.6 m concrete block** containing embedded cavities of varying sizes.  
+The folder includes raw PAUT and GPR data collected from a **1.0 m × 0.6 m concrete block** containing embedded cavities of varying sizes.  
 All experiments were conducted at **Guangzhou University’s NDT Laboratory** using:
 - **PAUT:** A1040 MIRA 3D Pro (16-element transducer array, 50 kHz)  
 - **GPR:** Leica C-Thrue (2 GHz antenna)
